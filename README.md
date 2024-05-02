@@ -1,3 +1,7 @@
+# Backend code for Shap-Explorer
+this is the backend implementation for Shap-Explorer.
+This code is based on Shap-E
+
 # Shap-E
 
 This is the official code and model release for [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463).
